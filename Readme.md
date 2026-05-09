@@ -24,7 +24,7 @@ Windows verwaltet Arbeitsspeicher grundsätzlich sehr effizient. Trotzdem gibt e
 
 ## Moderne Oberfläche mit direktem Überblick
 
-![image3](/assets/image3.png)
+![image3](/assets/image2.png)
 
 Schon auf der Hauptoberfläche zeigt RAM Optimizer Pro die wichtigsten Informationen auf einen Blick:
 
@@ -42,7 +42,7 @@ So hast du jederzeit im Blick, **wie dein Arbeitsspeicher genutzt wird** und kan
 
 ## Intelligente Einstellungen und integrierter Download
 
-![image2](/assets/image2.png)
+![image2](/assets/image3.png)
 
 Im Einstellungsfenster kannst du wichtige Funktionen zentral verwalten:
 
