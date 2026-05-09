@@ -1,92 +1,188 @@
 # RAM Optimizer Pro
 
-**RAM Optimizer Pro** ist eine moderne Windows-Anwendung zur Analyse, Überwachung und Optimierung des Arbeitsspeichers.  
-Die Software richtet sich an Nutzer, die die Speichernutzung ihres Systems besser verstehen, Engpässe schneller erkennen und unnötig belegten RAM gezielt freigeben möchten.
+![image1](https://raw.githubusercontent.com/smwul/RamClearer/main/RamOptimizerPro/Assets/image1.png)
+
+**RAM Optimizer Pro** ist eine moderne Windows-Anwendung zur **Analyse, Überwachung und gezielten Optimierung des Arbeitsspeichers**.  
+Die Software wurde für Nutzer entwickelt, die mehr Kontrolle über ihre RAM-Auslastung möchten und dabei Wert auf ein **modernes Design, einfache Bedienung und praktische Werkzeuge** legen.
+
+---
 
 ## Warum RAM Optimizer Pro?
 
-Windows verwaltet Arbeitsspeicher grundsätzlich sehr gut – dennoch gibt es Situationen, in denen eine gezielte Speicherbereinigung sinnvoll sein kann:
+Windows verwaltet Arbeitsspeicher grundsätzlich sehr effizient. Trotzdem gibt es Situationen, in denen es sinnvoll ist, die aktuelle Speichernutzung genauer zu analysieren oder gezielt Speicherbereiche zu bereinigen:
 
 - wenn Programme ungewöhnlich viel RAM belegen
-- wenn das System nach längerer Nutzung träger wird
-- bei Tests, Fehlersuche und Performance-Analysen
+- wenn das System nach längerer Nutzung träger wirkt
+- bei Performance-Tests und Troubleshooting
 - wenn Standby-Speicher geleert werden soll
 - wenn Working Sets reduziert werden sollen
-- wenn RAMMap schnell und komfortabel eingebunden werden soll
+- wenn RAMMap schnell integriert und genutzt werden soll
 
-**RAM Optimizer Pro** macht diese Aufgaben einfach, übersichtlich und direkt zugänglich – ohne umständliche Kommandozeilenarbeit.
+**RAM Optimizer Pro** bündelt diese Aufgaben in einer klaren, modernen Oberfläche und macht Speicheroptimierung einfacher, übersichtlicher und schneller zugänglich.
+
+---
+
+## Moderne Oberfläche mit direktem Überblick
+
+![image3](/assets/image3.png)
+
+Schon auf der Hauptoberfläche zeigt RAM Optimizer Pro die wichtigsten Informationen auf einen Blick:
+
+- aktuelle Speicherauslastung
+- gesamter, verfügbarer und belegter RAM
+- Schnellzugriff auf Optimierungsfunktionen
+- RAMMap-Vollbereinigung
+- Neustart mit Administratorrechten
+- separates Aktivitätsprotokoll
+- direkter Zugang zu den Einstellungen
+
+So hast du jederzeit im Blick, **wie dein Arbeitsspeicher genutzt wird** und kannst sofort reagieren.
+
+---
+
+## Intelligente Einstellungen und integrierter Download
+
+![image2](/assets/image2.png)
+
+Im Einstellungsfenster kannst du wichtige Funktionen zentral verwalten:
+
+- RAMMap-Verzeichnis festlegen
+- RAMMap direkt herunterladen und entpacken
+- Download-Protokoll live verfolgen
+- Hinweise zur sicheren Nutzung lesen
+- Update-Funktion verwalten
+
+Dadurch ist die Anwendung nicht nur leistungsfähig, sondern auch besonders **komfortabel in der Einrichtung und Pflege**.
+
+---
 
 ## Vorteile auf einen Blick
 
-- **Modernes und übersichtliches UI**
-- **Schneller Zugriff auf RAM-bezogene Aktionen**
-- **Integration von RAMMap**
-- **Download & Entpacken von RAMMap direkt aus der Anwendung**
+- **Modernes, professionelles UI**
+- **Direkte Anzeige wichtiger RAM-Werte**
+- **Working Sets reduzieren**
+- **Standby-Speicher leeren**
+- **RAMMap-Integration**
+- **RAMMap Download & Entpacken direkt aus der App**
 - **Update-Prüfung über GitHub Releases**
+- **Aktivitätsprotokoll im separaten Fenster**
 - **Klare Hinweise zur sicheren Nutzung**
-- **Für Analyse, Troubleshooting und Optimierung geeignet**
+- **Ideal für Analyse, Optimierung und Troubleshooting**
+
+---
 
 ## Funktionen
 
 ### Speicher analysieren
-Behalte die Arbeitsspeichernutzung im Blick und erkenne schnell, wenn dein System ungewöhnlich ausgelastet ist.
+RAM Optimizer Pro zeigt dir schnell und übersichtlich, wie dein Arbeitsspeicher aktuell genutzt wird.  
+So erkennst du Lastspitzen, Engpässe und ungewöhnliche Speicherbelegung sofort.
 
-### RAMMap-Integration
-RAM Optimizer Pro kann externe Tools wie **RAMMap** komfortabel einbinden, damit fortgeschrittene Speicheranalysen ohne manuelle Einrichtung möglich sind.
+### Working Sets reduzieren
+Mit einem Klick können Working Sets reduziert werden, um belegten Speicher gezielt freizugeben.
 
-### Download & Entpacken
-RAMMap kann direkt aus der Anwendung heraus heruntergeladen und vorbereitet werden.
+### Standby-Speicher leeren
+Leere den Standby-Speicher, wenn du gezielt gecachten RAM freigeben möchtest.
 
-### Speicherbereinigung
-Je nach Bedarf lassen sich verschiedene Maßnahmen zur Entlastung des RAM ausführen, zum Beispiel:
+### RAMMap-Vollbereinigung
+Für fortgeschrittene Szenarien bietet RAM Optimizer Pro eine komfortable Einbindung von **RAMMap**, inklusive direkter Ausführung entsprechender Bereinigungsaktionen.
 
-- Working Sets reduzieren
-- Standby-Speicher leeren
-- weiterführende Bereinigungsaktionen für Spezialfälle
+### RAMMap-Download direkt in der App
+RAMMap kann direkt aus der Anwendung heruntergeladen und entpackt werden.  
+Das spart Zeit und vereinfacht die Einrichtung erheblich.
 
-### Update-Funktion
-Die Anwendung kann über GitHub nach neueren Releases suchen und so auf dem aktuellen Stand bleiben.
+### Update-System
+Die Anwendung kann GitHub-Releases prüfen und neue Versionen erkennen.  
+Damit bleibt dein Tool ohne großen Aufwand aktuell.
 
-## Für wen ist das Programm geeignet?
+### Protokollierung
+Wichtige Aktionen und Abläufe können nachvollzogen werden – ideal für Tests, Fehlersuche und Transparenz.
+
+---
+
+## Für wen ist RAM Optimizer Pro geeignet?
 
 RAM Optimizer Pro ist ideal für:
 
-- Power-User
-- Tester
-- Entwickler
-- Administratoren
-- Nutzer mit Performance-Problemen
-- alle, die mehr Kontrolle über ihre RAM-Nutzung möchten
+- **Power-User**
+- **Tester**
+- **Entwickler**
+- **Administratoren**
+- **Technikinteressierte Nutzer**
+- **Anwender mit Performance-Problemen**
+- **alle, die mehr Kontrolle über ihre RAM-Nutzung möchten**
+
+---
 
 ## Warum dieses Tool nutzen?
 
-Viele Tools zur Speicheroptimierung sind veraltet, unübersichtlich oder überladen.  
-**RAM Optimizer Pro** verfolgt einen anderen Ansatz:
+Viele Programme zur Speicheroptimierung sind entweder:
 
-- **einfach bedienbar**
-- **klar strukturiert**
-- **praktisch**
-- **fokussiert auf echte Nutzbarkeit**
-- **ideal für Windows-Systempflege und Analyse**
+- veraltet
+- unübersichtlich
+- unnötig kompliziert
+- optisch wenig ansprechend
+- oder mit irrelevanten Funktionen überladen
 
-Statt unnötiger Spielereien bekommst du eine aufgeräumte Anwendung mit echtem Mehrwert.
+**RAM Optimizer Pro** setzt auf einen anderen Ansatz:
+
+- **moderne Oberfläche**
+- **schnelle Bedienung**
+- **klare Struktur**
+- **nützliche Funktionen**
+- **echter Fokus auf Praxistauglichkeit**
+
+Statt unnötiger Spielereien bekommst du ein Tool, das dir **reale Kontrolle, Übersicht und Komfort** bietet.
+
+---
 
 ## Hinweis zur Nutzung
 
-Eine hohe RAM-Auslastung ist unter Windows nicht automatisch schlecht.  
-Freier RAM wird von Windows bewusst für Caching und Leistungsoptimierung genutzt. Deshalb sollte Speicherbereinigung gezielt und bewusst eingesetzt werden – besonders bei intensiveren Eingriffen.
+Eine hohe RAM-Auslastung ist unter Windows nicht automatisch ein Problem.  
+Windows nutzt freien Speicher bewusst für Caching und Leistungsoptimierung. Deshalb sollte Speicherbereinigung gezielt und bewusst eingesetzt werden – besonders bei intensiveren Eingriffen.
 
-RAM Optimizer Pro unterstützt dich dabei mit klaren Hinweisen und einer strukturierten Oberfläche.
+RAM Optimizer Pro unterstützt dich dabei mit:
+
+- verständlicher Darstellung
+- klaren Funktionen
+- hilfreichen Hinweisen
+- einer sicheren und strukturierten Bedienoberfläche
+
+---
 
 ## Highlights
 
 - einfache Bedienung
-- praktische RAM-Tools an einem Ort
+- professionelles dunkles Design
+- schnelle Speicherübersicht
+- praktische Tools an einem Ort
 - direkte RAMMap-Unterstützung
+- Download- und Entpack-Funktion
 - GitHub-Release-Updates
-- modernes Design
-- hilfreiche Hinweise für sichere Nutzung
+- separates Protokollfenster
+- ideal für Analyse und Wartung
+
+---
 
 ## Fazit
 
 **RAM Optimizer Pro** ist die richtige Wahl für alle, die ein modernes, nützliches und verständliches Tool zur RAM-Analyse und Speicheroptimierung suchen.
+
+Wenn du ein Programm möchtest, das:
+
+- Speicherprobleme sichtbar macht
+- wichtige Werkzeuge zentral bündelt
+- dir Zeit spart
+- einfach zu bedienen ist
+- und dabei modern und professionell aussieht
+
+dann ist **RAM Optimizer Pro** genau dafür gemacht.
+
+---
+
+## Download
+
+Lade dir die aktuelle Version über die GitHub Releases herunter und halte die Anwendung immer auf dem neuesten Stand.
+
+---
+
+**RAM Optimizer Pro** – mehr Überblick, mehr Kontrolle, mehr Effizienz.
