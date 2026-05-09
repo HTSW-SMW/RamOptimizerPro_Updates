@@ -1,6 +1,6 @@
 # RAM Optimizer Pro
 
-![image1](https://raw.githubusercontent.com/smwul/RamClearer/main/RamOptimizerPro/Assets/image1.png)
+![image1](/assets/image1.png)
 
 **RAM Optimizer Pro** ist eine moderne Windows-Anwendung zur **Analyse, Überwachung und gezielten Optimierung des Arbeitsspeichers**.  
 Die Software wurde für Nutzer entwickelt, die mehr Kontrolle über ihre RAM-Auslastung möchten und dabei Wert auf ein **modernes Design, einfache Bedienung und praktische Werkzeuge** legen.
